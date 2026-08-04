@@ -12,6 +12,6 @@ I am currently pursuing a Bachelor's degree in Computer Science at the National 
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/nicolas-otagalli-2014bb2b9/">
+<a href="https://www.linkedin.com/in/nicolas-otagalli-2a14bb2b2/">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>

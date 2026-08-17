@@ -2,7 +2,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ## About me
-I am Nicolás, a Java backend developer with experience in building REST APIs, using tools such as Java (JDK 17), Spring, Spring Boot, Maven, Hibernate (ORM), Microservices, Spring Cloud, Spring Data JPA, relational databases (MySQL), Spring Security, JWT, Postman, Git, GitHub, and Docker.
+I am Nicolás, a Java backend developer with experience in building REST APIs, using tools such as Java (JDK 17), Spring, Spring Boot, Maven, Hibernate (ORM), Microservices, Spring Cloud, Spring Data JPA, relational databases (MySQL), Postman, Git, GitHub, and Docker.
 
 I am currently pursuing a Bachelor's degree in Computer Science at the National University of La Plata (UNLP). I complement my education by learning English and Linux.
 
